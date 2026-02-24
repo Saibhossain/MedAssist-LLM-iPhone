@@ -1,4 +1,5 @@
 # # 📱 On-Device Medical LLM with Hybrid Edge–Cloud Routing (iPhone Deployment)
+![Image](iphone_ss.jpeg)
 
 ## 🚀 Project Overview
 
