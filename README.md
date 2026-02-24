@@ -188,3 +188,62 @@ The system follows an **offline-first AI principle**:
 * Medical safety guardrails
 
 ---
+
+## 🧪 Environment
+
+Training & Conversion:
+
+* Google Colab
+* Python
+* PyTorch
+* Transformers
+* Unsloth
+* llama.cpp
+
+Deployment Target:
+
+* iOS (iPhone X and newer)
+
+---
+
+## ▶️ How to Reproduce
+
+1. Open provided `.ipynb` notebooks in Google Colab
+2. Run fine-tuning notebook
+3. Merge trained model
+4. Convert model to GGUF format
+5. Transfer GGUF model to iPhone runtime
+
+---
+
+## ⚠️ Disclaimer
+
+This system provides **general medical information only** and is **not intended for diagnosis or clinical decision-making**.
+
+Always consult qualified healthcare professionals for medical advice.
+
+---
+
+## 📌 Contribution & Research Purpose
+
+This project is intended for:
+
+* Mobile AI research
+* Edge AI experimentation
+* Privacy-preserving LLM deployment
+* Academic exploration of hybrid AI systems
+
+---
+
+## ⭐ Acknowledgements
+
+* HuggingFace Transformers
+* Unsloth
+* llama.cpp
+* Open-source AI community
+
+---
+
+## 📄 License
+
+This project is released for research and educational purposes.
