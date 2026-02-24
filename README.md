@@ -147,7 +147,7 @@ Deployment options include:
 * Existing GGUF-compatible mobile LLM apps
 
 The model runs locally without internet connectivity.
-![Image](iphone_ss.jpeg)
+
 ---
 
 ## 📱 On-Device Inference Characteristics
